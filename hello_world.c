@@ -1,4 +1,3 @@
-//Write the program to print "Hello World !"
 #include<stdio.h>
 int  main ()
 {
@@ -8,3 +7,4 @@ int  main ()
     printf("%s is the name\n",c);
 return 0;
 }
+
